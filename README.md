@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/offa/android-foss.svg?branch=master)](https://travis-ci.org/offa/android-foss)
 [![License](https://img.shields.io/badge/license-GPLv3-yellow.svg)](LICENSE)
 
-A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** – saving *Freedom* and *Privacy*.
+Liste non exhaustive d'applications  **gratuites** et **open source** ***(FOSS)*** pour smartphones **Android** – "Le futur est *libre*."
 
 Table of Contents
 -----------------
